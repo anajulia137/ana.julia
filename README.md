@@ -6,4 +6,4 @@ meu nome é ana julia rufino de oliveira
 .Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 voce pode entrar em contato comigo
 00001112840515sp@aluno.educacao.sp.gov.br
-@alura
+@aluraestertestudante
